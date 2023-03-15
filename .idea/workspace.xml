@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65245e4a-90d4-4a17-a76e-099bd74ed17d" name="Changes" comment="Added : Given 3 Integers find the maximum" />
+    <list default="true" id="65245e4a-90d4-4a17-a76e-099bd74ed17d" name="Changes" comment="Added : Given 3 Strings find the maximum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +77,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678893900570</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added : Given 3 Strings find the maximum">
+      <created>1678894619324</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894619324</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added : Given 3 Strings find the maximum">
+      <created>1678894637399</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894637399</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +101,7 @@
     <MESSAGE value="Added : Given 3 Integers find the maximum" />
     <MESSAGE value="Added : Extend the max method to take more then three parameters" />
     <MESSAGE value="Added : Given 3 Floats find the maximum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Given 3 Floats find the maximum" />
+    <MESSAGE value="Added : Given 3 Strings find the maximum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Given 3 Strings find the maximum" />
   </component>
 </project>
