@@ -1,16 +1,16 @@
 public class FindTheMaximum {
-    // Method used to compare three Integer value and get maximum value
-    public static Integer maxOfInteger(Integer a1, Integer a2, Integer a3) {
-        Integer max = a1;
-        if (a2.compareTo(max) > 0)
-            max = a2;
-        if (a3.compareTo(max) > 0)
-            max = a3;
+    // Method used to compare three Float value and get maximum value
+    public static Float maxOfFloat(Float f1, Float f2, Float f3) {
+        Float max = f1;
+        if (f2.compareTo(max) > 0)
+            max = f2;
+        if (f3.compareTo(max) > 0)
+            max = f3;
         return max;
     }
     public static void main(String[] args) {
         System.out.println("Welcome to the find maximum value of three Integer using without Generics\n");
-        System.out.println("The maximum value between the three integer is : " + maxOfInteger (2, 25, 50));
+        System.out.println("The maximum value between the three integer is : " + maxOfFloat (2.5f, 25.7f, 50.9f));
     }
 
 }
