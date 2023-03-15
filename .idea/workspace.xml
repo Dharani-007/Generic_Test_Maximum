@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65245e4a-90d4-4a17-a76e-099bd74ed17d" name="Changes" comment="Added : Given 3 Strings find the maximum" />
+    <list default="true" id="65245e4a-90d4-4a17-a76e-099bd74ed17d" name="Changes" comment="Added : Given 3 Strings find the maximum">
+      <change beforePath="$PROJECT_DIR$/src/FindTheMaximum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FindTheMaximum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
