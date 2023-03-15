@@ -1,4 +1,4 @@
-public class StringMaxValue {
+public class FindTheMaximum {
     public static String maxOfString(String s1, String s2, String s3) {
         // Method used to compare three String value and get maximum value
         String max = s1;
